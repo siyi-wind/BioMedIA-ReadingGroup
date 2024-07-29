@@ -9,6 +9,7 @@
 | 2024-06-27     | [Modality-Agnostic Structural Image Representation Learning for Deformable Multi-Modality Medical Image Registration][9] | [slides][10]
 | 2024-07-11     | Multi-Modality Groupwise Medical Image Registration: A Generative Perspective | [slides][11]
 | 2024-07-18     | [On the Joint Interaction of Models, Data, and Features][12]   | [slides][13]
+| 2024-07-25      | Accelerating Cardiac MRI with Deep Learning  |  [slides][14]
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
@@ -23,3 +24,4 @@
 [11]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-07-11-GroupwiseRegistration.pdf
 [12]: https://openreview.net/forum?id=ze7DOLi394
 [13]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-07-18-Generalization-Disagreement-Equality.pdf
+[14]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-07-25-Accelerating_CMR.pdf
