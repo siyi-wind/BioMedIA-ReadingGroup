@@ -10,6 +10,7 @@
 | 2024-07-11     | Multi-Modality Groupwise Medical Image Registration: A Generative Perspective | [slides][11]
 | 2024-07-18     | [On the Joint Interaction of Models, Data, and Features][12]   | [slides][13]
 | 2024-07-25      | Accelerating Cardiac MRI with Deep Learning  |  [slides][14]
+| 2024-08-01      | [Vision Transformers Need Registers][15]     |  [slides_1][16], [slides][17]
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
@@ -25,3 +26,6 @@
 [12]: https://openreview.net/forum?id=ze7DOLi394
 [13]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-07-18-Generalization-Disagreement-Equality.pdf
 [14]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-07-25-Accelerating_CMR.pdf
+[15]: https://openreview.net/forum?id=2dnO3LLiJ1
+[16]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-08-01-VIT_Register1.pptx
+[17]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-08-01-VIT_Register2.pptx
