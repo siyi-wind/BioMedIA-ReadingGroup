@@ -11,6 +11,7 @@
 | 2024-07-18     | [On the Joint Interaction of Models, Data, and Features][12]   | [slides][13]
 | 2024-07-25      | Accelerating Cardiac MRI with Deep Learning  |  [slides][14]
 | 2024-08-01      | [Vision Transformers Need Registers][15]     |  [slides_1][16], [slides][17]
+| 2024-09-12     | [TIP: Tabular-Image Pre-training for Multimodal Classification with Incomplete Data][18]  | [slides][19]
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
@@ -29,3 +30,5 @@
 [15]: https://openreview.net/forum?id=2dnO3LLiJ1
 [16]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-08-01-VIT_Register1.pptx
 [17]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-08-01-VIT_Register2.pptx
+[18]: https://arxiv.org/abs/2407.07582
+[19]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-09-12-TIP.pdf
