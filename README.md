@@ -36,4 +36,4 @@
 [20]: https://arxiv.org/pdf/2405.10246
 [21]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-10-24-MOME.pptx
 [22]: https://papers.miccai.org/miccai-2024/paper/1517_paper.pdf
-[23]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-10-24-MOME.pptx
+[23]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-10-24-CoSeg.pptx
