@@ -14,7 +14,7 @@
 | 2024-09-12     | [TIP: Tabular-Image Pre-training for Multimodal Classification with Incomplete Data][18], ECCV 2024  | [slides][19]
 | 2024-10-24     | [A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts][20], MICCAI 2024 <br> [Weakly Supervised Learning of Cortical Surface Reconstruction from Segmentations][22], MICCAI 2024 | [slides][21], [slides][23]
 | 2024-10-31     |  [Truth or Deceit? A Bayesian Decoding Game Enhances Consistency and Reliability][24] <br> [Weakly Supervised Learning of Cortical Surface Reconstruction from Segmentations][25], BMCV 2024 | [slides][26], [slides][27]
-
+| 2024-11-28     |  [Learning to Augment Distributions for Out-of-distribution Detection][28]| [slides][29]
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
@@ -43,3 +43,5 @@
 [25]: https://arxiv.org/abs/2408.00639
 [26]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-10-31-LLM-Consensus.pdf
 [27]: https://docs.google.com/presentation/d/1051V-mPgQZ7zV2M9I-lccPbOs5xMET244QJFR2TAv1A/edit?usp=sharing
+[28]: https://proceedings.neurips.cc/paper_files/paper/2023/hash/e812af67a942c21dd0104bd929f99da1-Abstract-Conference.html
+[29]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-11-28-Augment_Distribution.pptx
