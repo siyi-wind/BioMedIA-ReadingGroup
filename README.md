@@ -15,6 +15,7 @@
 | 2024-10-24     | [A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts][20], MICCAI 2024 <br> [Weakly Supervised Learning of Cortical Surface Reconstruction from Segmentations][22], MICCAI 2024 | [slides][21], [slides][23]
 | 2024-10-31     |  [Truth or Deceit? A Bayesian Decoding Game Enhances Consistency and Reliability][24] <br> [Weakly Supervised Learning of Cortical Surface Reconstruction from Segmentations][25], BMCV 2024 | [slides][26], [slides][27]
 | 2024-11-28     |  [Learning to Augment Distributions for Out-of-distribution Detection][28]| [slides][29]
+| 2025-02-20     | [Consistency Models][30], ICML 2023  |  [slides][31]
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
@@ -45,3 +46,5 @@
 [27]: https://docs.google.com/presentation/d/1051V-mPgQZ7zV2M9I-lccPbOs5xMET244QJFR2TAv1A/edit?usp=sharing
 [28]: https://proceedings.neurips.cc/paper_files/paper/2023/hash/e812af67a942c21dd0104bd929f99da1-Abstract-Conference.html
 [29]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-11-28-Augment_Distribution.pptx
+[30]: https://arxiv.org/abs/2303.01469
+[31]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-02-20-Consistency_Models.pdf
