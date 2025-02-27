@@ -16,6 +16,7 @@
 | 2024-10-31     |  [Truth or Deceit? A Bayesian Decoding Game Enhances Consistency and Reliability][24] <br> [Weakly Supervised Learning of Cortical Surface Reconstruction from Segmentations][25], BMCV 2024 | [slides][26], [slides][27]
 | 2024-11-28     |  [Learning to Augment Distributions for Out-of-distribution Detection][28]| [slides][29]
 | 2025-02-20     | [Consistency Models][30], ICML 2023  |  [slides][31]
+| 2025-02-27     | [Knowledge-enhanced Multimodal ECG Representation Learning with Arbitrary-Lead Inputs][32], ACL 2025 submission <br> [Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?][33], ACL 2025 submission | [slides][34]
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
@@ -48,3 +49,6 @@
 [29]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-11-28-Augment_Distribution.pptx
 [30]: https://arxiv.org/abs/2303.01469
 [31]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-02-20-Consistency_Models.pdf
+[32]: https://openreview.net/forum?id=vyFSyfiOIu
+[33]: https://arxiv.org/abs/2310.02279
+[34]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-02-27-MLLM.pptx
