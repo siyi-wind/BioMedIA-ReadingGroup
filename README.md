@@ -17,6 +17,7 @@
 | 2024-11-28     |  [Learning to Augment Distributions for Out-of-distribution Detection][28]| [slides][29]   |
 | 2025-02-20     | [Consistency Models][30], ICML 2023  |  [slides][31]   |
 | 2025-02-27     | [Knowledge-enhanced Multimodal ECG Representation Learning with Arbitrary-Lead Inputs][32], ACL 2025 submission <br> [Can Medical Vision-Language Pre-training Succeed with Purely Synthetic Data?][33], ACL 2025 submission | [slides][34]   |
+| 2025-03-06     | [Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion](https://arxiv.org/abs/2310.02279), ICLR 2024  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025_03_06_Consistency_Trejectory_Models.pdf)  |
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
