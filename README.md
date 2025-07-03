@@ -22,7 +22,7 @@
 | 2025-03-27     | [STiL: Semi-supervised Tabular-Image Learning for Comprehensive Task-Relevant Information Exploration in Multimodal Classification](https://arxiv.org/abs/2503.06277), CVPR 2025 | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-03-27-STiL.pptx)
 | 2025-04-03     | [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://arxiv.org/abs/2408.11039), ICLR 2025 (oral)  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-04-03-Transfusion.pdf)
 | 2025-05-01     | [Unsupervised Accelerated MRI Reconstruction via Ground-Truth-Free Flow Matching](https://arxiv.org/abs/2502.17174), IPMI 2025 (oral)  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-05-01-Unsupervised_Reconstruction.pdf)
-| 2025-07-03      | [Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens][https://openaccess.thecvf.com/content/CVPR2025/html/Pan_Generative_Multimodal_Pretraining_with_Discrete_Diffusion_Timestep_Tokens_CVPR_2025_paper.html]   | [slides][https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-06-28_Diffusion_Pretraining.pptx]
+| 2025-07-03      | [Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens][(ttps://openaccess.thecvf.com/content/CVPR2025/html/Pan_Generative_Multimodal_Pretraining_with_Discrete_Diffusion_Timestep_Tokens_CVPR_2025_paper.html)   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-06-28_Diffusion_Pretraining.pptx)
 
 
 
