@@ -25,6 +25,7 @@
 | 2025-07-03      | [Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens](https://openaccess.thecvf.com/content/CVPR2025/html/Pan_Generative_Multimodal_Pretraining_with_Discrete_Diffusion_Timestep_Tokens_CVPR_2025_paper.html), CVPR 2025 (Award candidate)   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-06-28_Diffusion_Pretraining.pptx)
 | 2025-07-10      | [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://openreview.net/forum?id=Unb5CVPtae), ICLR 2024 | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-10_LLM_time_series.pptx)
 | 2025-07-17      | [Unsupervised Feature Orthogonalization for Learning Distortion-Invariant Representations](https://arxiv.org/abs/2409.12276), RROW@BMVC 2024 | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-17-Distortion_Invariant.pdf)
+｜ 2025-07-25      ｜ [Geometry of Long-Tailed Representation Learning: Rebalancing Features for Skewed Distributions](https://openreview.net/forum?id=GySIAKEwtZ), ICLR 2025 | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-25-Geometry_Long_Trailed.pptx)
 
 
 [1]: https://arxiv.org/abs/2401.09417
