@@ -26,7 +26,7 @@
 | 2025-07-10      | [Time-LLM: Time Series Forecasting by Reprogramming Large Language Models](https://openreview.net/forum?id=Unb5CVPtae), ICLR 2024 | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-10_LLM_time_series.pptx)
 | 2025-07-17      | [Unsupervised Feature Orthogonalization for Learning Distortion-Invariant Representations](https://arxiv.org/abs/2409.12276), RROW@BMVC 2024 | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-17-Distortion_Invariant.pdf) |
 | 2025-07-25      | [Geometry of Long-Tailed Representation Learning: Rebalancing Features for Skewed Distributions](https://openreview.net/forum?id=GySIAKEwtZ), ICLR 2025 | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-25-Geometry_Long_Trailed.pptx)
-
+| 2025-07-31      | [Conformal Prediction as Bayesian Quadrature](https://arxiv.org/abs/2502.13228), ICML 2025 (Oral)   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-31-Conformal_Bayesian.pdf)
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
