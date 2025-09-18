@@ -28,6 +28,7 @@
 | 2025-07-25      | [Geometry of Long-Tailed Representation Learning: Rebalancing Features for Skewed Distributions](https://openreview.net/forum?id=GySIAKEwtZ), ICLR 2025 | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-25-Geometry_Long_Trailed.pptx)
 | 2025-07-31      | [Conformal Prediction as Bayesian Quadrature](https://arxiv.org/abs/2502.13228), ICML 2025 (Oral)   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-31-Conformal_Bayesian.pdf)
 | 2025-09-04      | [Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs](https://arxiv.org/pdf/2501.14548), MICCAI 2025   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-09-04-Private_CVAEs.pptx)
+| 2025-09-18      |  [Large-Scale and Fine-Grained Vision Language Pre-Training for Enhanced CT Image Understanding](https://arxiv.org/pdf/2501.14548)  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-09-18-fVLM.pptx)
 
 
 [1]: https://arxiv.org/abs/2401.09417
