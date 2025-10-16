@@ -29,7 +29,7 @@
 | 2025-07-31      | [Conformal Prediction as Bayesian Quadrature](https://arxiv.org/abs/2502.13228), ICML 2025 (Oral)   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-07-31-Conformal_Bayesian.pdf)
 | 2025-09-04      | [Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs](https://arxiv.org/pdf/2501.14548), MICCAI 2025   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-09-04-Private_CVAEs.pptx)
 | 2025-09-18      |  [Large-Scale and Fine-Grained Vision Language Pre-Training for Enhanced CT Image Understanding](https://arxiv.org/pdf/2501.14548)  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-09-18-fVLM.pptx)
-
+| 2025-10-16      |  [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/html/2506.23639v1)   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-10-16-BeingVL.pptx)
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
