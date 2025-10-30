@@ -30,6 +30,8 @@
 | 2025-09-04      | [Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs](https://arxiv.org/pdf/2501.14548), MICCAI 2025   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-09-04-Private_CVAEs.pptx)
 | 2025-09-18      |  [Large-Scale and Fine-Grained Vision Language Pre-Training for Enhanced CT Image Understanding](https://arxiv.org/pdf/2501.14548), ICLR 2025  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-09-18-fVLM.pptx)
 | 2025-10-16      |  [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/html/2506.23639v1), ICCV 2025 (highlight)   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-10-16-BeingVL.pptx)
+| 2025-10-30      | The Evolution of LLM Alignment Tuning: From [PPO](https://arxiv.org/abs/1707.06347) to [DPO](https://arxiv.org/abs/2305.18290) to [GRPO](https://arxiv.org/abs/2402.03300)  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-10-30_LLM_RL.pptx)
+
 
 [1]: https://arxiv.org/abs/2401.09417
 [2]: https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2024-05-09-VisionMamba.pptx
