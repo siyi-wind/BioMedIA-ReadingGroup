@@ -32,6 +32,7 @@
 | 2025-10-16      |  [Unified Multimodal Understanding via Byte-Pair Visual Encoding](https://arxiv.org/html/2506.23639v1), ICCV 2025 (highlight)   | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-10-16-BeingVL.pptx)
 | 2025-10-30      | The Evolution of LLM Alignment Tuning: From [PPO](https://arxiv.org/abs/1707.06347) to [DPO](https://arxiv.org/abs/2305.18290) to [GRPO](https://arxiv.org/abs/2402.03300)  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-10-30_LLM_RL.pptx)
 | 2025-11-13     | [CellCLIP - Learning Perturbation Effects in Cell Painting via Text-Guided Contrastive Learning](https://arxiv.org/abs/2506.06290), NIPS 2025  | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2025-11-13_Cell_CLIP.pdf)
+| 2026-01-15 | [Terminal Velocity Matching](https://arxiv.org/abs/2511.19797) | [slides](https://github.com/siyi-wind/BioMedIA-ReadingGroup/blob/main/slides/2026-01-15_Terminal_Velocity_Matching.pdf))
 
 
 [1]: https://arxiv.org/abs/2401.09417
